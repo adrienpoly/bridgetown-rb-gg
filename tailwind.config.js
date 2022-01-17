@@ -4,7 +4,11 @@ module.exports = {
     './frontend/javascript/**/*.js',
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        'serif': ['Laila', 'Georgia', 'Cambria', 'Times New Roman', 'Times', 'serif'],
+      }
+    },
   },
   plugins: [],
 }
