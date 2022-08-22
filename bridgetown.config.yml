@@ -21,7 +21,7 @@ template_engine: erb
 
 # Other options you might want to investigate:
 # 
-# base_path: "/" # the subpath of your site, e.g. /blog
+base_path: "/bridgetown-rb-gg" # the subpath of your site, e.g. /blog
 # timezone: America/Los_Angeles
 # pagination:
 #   enabled: true
